@@ -1,3 +1,6 @@
+; Nama : Arvin Mahmud Santosa
+; NIM : 2300018140
+
 .model SMALL 
 .code 
  ORG 100h 
